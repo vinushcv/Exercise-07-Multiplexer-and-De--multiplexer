@@ -94,11 +94,11 @@ endmodule
 
 ### RTL LOGIC 
 
-MUX:
+1 X 4 MULTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/113975318/215305158-9cb81511-4eb3-4511-a74d-d5645cb544e3.png)
 
-DEMUX:
+4 X 1 DEMULTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/113975318/215305166-3d104cec-c8db-4df3-b77e-2769426db98a.png)
 
@@ -109,7 +109,7 @@ DEMUX:
 
 ### TIMING DIGRAMS  
 
-MUX:
+1 X 4 MULTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/113975318/215305175-9e913eac-4c76-469a-b692-9be55d598877.png)
 
@@ -119,7 +119,7 @@ MUX:
 
 ![image](https://user-images.githubusercontent.com/113975318/215305198-339670b9-3559-49f5-a15c-fefa8f4bc1b3.png)
 
-DEMUX:
+4 X 1 DEMULTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/113975318/215305206-26c9d71f-f874-4850-bfcc-12f937cddf61.png)
 
@@ -130,11 +130,11 @@ DEMUX:
 
 ### TRUTH TABLE 
 
-MUX:
+1 X 4 MULTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/113975318/215305231-1d9a3781-db37-4b33-a2b3-fc78daff8c60.png)
 
-DEMUX:
+4 X 1 DUMLTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/113975318/215305240-b5a3c5af-3a1f-4fcc-8081-97a0e37b0a24.png)
 
